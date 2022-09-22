@@ -1,4 +1,4 @@
-﻿int getRandomNumberFromRange(int minBorder, int maxBorder)
+﻿/*int getRandomNumberFromRange(int minBorder, int maxBorder)
 {
     int result = new int();
     result = new Random().Next(minBorder, maxBorder + 1);
